@@ -1,0 +1,3 @@
+"C:\dev\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\conveer.dir/objects.a
+C:\dev\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\ar.exe cr CMakeFiles\conveer.dir/objects.a @CMakeFiles\conveer.dir\objects1.rsp
+C:\dev\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\conveer.dir/objects.a -Wl,--no-whole-archive  -o conveer.exe -Wl,--out-implib,libconveer.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\conveer.dir\linklibs.rsp

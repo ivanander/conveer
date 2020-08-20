@@ -1,0 +1,3 @@
+C:/dev/CLion_projects/conveer/cmake-build-debug/CMakeFiles/conveer.dir
+C:/dev/CLion_projects/conveer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/dev/CLion_projects/conveer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

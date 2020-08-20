@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/dev/CLion_projects/conveer/conveer.cpp
+test_runner.h
+C:/dev/CLion_projects/conveer/test_runner.h
+functional
+-
+memory
+-
+sstream
+-
+stdexcept
+-
+string
+-
+vector
+-
+list
+-
+
+C:/dev/CLion_projects/conveer/test_runner.h
+sstream
+-
+stdexcept
+-
+iostream
+-
+map
+-
+unordered_map
+-
+set
+-
+string
+-
+vector
+-
+
